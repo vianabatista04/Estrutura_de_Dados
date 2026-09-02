@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "estrutura_de_dados",
+  "version": "1.0.0",
+  "description": "Repositório destinado ao armazenamento e organização das atividades práticas desenvolvidas na disciplina de **Estrutura de Dados**, ministrada pelo professor **Guilherme Leal** no curso de **TADS - IFRN**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vianabatista04/Estrutura_de_Dados.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vianabatista04/Estrutura_de_Dados/issues"
+  },
+  "homepage": "https://github.com/vianabatista04/Estrutura_de_Dados#readme"
+}
