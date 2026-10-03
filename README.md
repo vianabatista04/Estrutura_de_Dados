@@ -38,7 +38,7 @@ As atividades e implementações estão organizadas em pastas por unidades temá
 | :---: | :---: | :--- | :---: |
 | 🟩 **Unidade 01** | Concluída | Fundamentos de JavaScript e Lógica Aplicada | `JS` |
 | 🟩 **Unidade 02** | Concluída | Arrays, Objetos e Coleções (`Map` / `Set`) | `JS` |
-| 🟨 **Unidade 03** | Em Andamento | Estruturas Lineares (Pilhas, Filas e Listas) | `JS` |
+| 🟩 **Unidade 03** | Concluída | Estruturas Lineares (Pilhas, Filas e Listas) | `JS` |
 | ⬜ **Unidade 04** | Pendente | Fundamentos de TypeScript (Tipagem e Interfaces) | `TS` |
 | ⬜ **Unidade 05** | Pendente | Programação Orientada a Objetos em TypeScript | `TS` |
 | ⬜ **Unidade 06** | Pendente | Generics, Interfaces Avançadas e Coleções | `TS` |
